@@ -1,0 +1,1520 @@
+[
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2023-09-07T04:43:52.597Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "1",
+        "object_repr": "Weapon object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2023-09-07T04:45:03.718Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "Ammo object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2023-09-07T04:45:16.650Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "Ammo object (1)",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2023-09-07T04:46:17.436Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "Ammo object (1)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Type\", \"Price ammo\", \"Capacity spare\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2023-09-07T04:46:30.146Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "Ammo object (1)",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2023-09-07T04:46:51.651Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "Ammo object (1)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Type\", \"Price ammo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+        "action_time": "2023-09-07T04:47:07.588Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "Ammo object (1)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Capacity spare\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+        "action_time": "2023-09-07T04:47:53.632Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "1",
+        "object_repr": "Damagerange object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+        "action_time": "2023-09-07T04:52:15.593Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "2",
+        "object_repr": "Ammo object (2)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+        "action_time": "2023-09-07T04:53:35.832Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "3",
+        "object_repr": "Ammo object (3)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+        "action_time": "2023-09-07T04:54:27.665Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "2",
+        "object_repr": "Damagerange object (2)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+        "action_time": "2023-09-07T04:55:14.854Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "3",
+        "object_repr": "Damagerange object (3)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+        "action_time": "2023-09-07T05:02:06.961Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "Ammo object (1)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Weapon\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+        "action_time": "2023-09-07T05:02:40.885Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "1",
+        "object_repr": "Damagerange object (1)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Ammo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+        "action_time": "2023-09-07T05:04:02.736Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "2",
+        "object_repr": "Damagerange object (2)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+        "action_time": "2023-09-07T05:05:46.915Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "2",
+        "object_repr": "Ammo object (2)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Weapon\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+        "action_time": "2023-09-07T05:05:50.127Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "3",
+        "object_repr": "Ammo object (3)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Weapon\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+        "action_time": "2023-09-07T05:06:12.204Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "3",
+        "object_repr": "Damagerange object (3)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Ammo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+        "action_time": "2023-09-07T05:07:42.843Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "2",
+        "object_repr": "Weapon object (2)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+        "action_time": "2023-09-07T05:08:28.263Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "3",
+        "object_repr": "Weapon object (3)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+        "action_time": "2023-09-07T05:08:44.382Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "Ammo object (1)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Weapon\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+        "action_time": "2023-09-07T05:08:47.178Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "2",
+        "object_repr": "Ammo object (2)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Weapon\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 23,
+    "fields": {
+        "action_time": "2023-09-07T05:08:50.723Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "3",
+        "object_repr": "Ammo object (3)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Weapon\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 24,
+    "fields": {
+        "action_time": "2023-09-07T05:10:30.568Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "4",
+        "object_repr": "Weapon object (4)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 25,
+    "fields": {
+        "action_time": "2023-09-07T05:11:05.453Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "4",
+        "object_repr": "Ammo object (4)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 26,
+    "fields": {
+        "action_time": "2023-09-07T05:12:08.228Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "4",
+        "object_repr": "Damagerange object (4)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 27,
+    "fields": {
+        "action_time": "2023-09-07T05:14:30.080Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "5",
+        "object_repr": "Weapon object (5)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 28,
+    "fields": {
+        "action_time": "2023-09-07T05:15:11.373Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "6",
+        "object_repr": "Weapon object (6)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 29,
+    "fields": {
+        "action_time": "2023-09-07T05:15:45.863Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "5",
+        "object_repr": "Ammo object (5)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 30,
+    "fields": {
+        "action_time": "2023-09-07T05:16:18.631Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "6",
+        "object_repr": "Ammo object (6)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 31,
+    "fields": {
+        "action_time": "2023-09-07T05:16:20.821Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "6",
+        "object_repr": "Ammo object (6)",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 32,
+    "fields": {
+        "action_time": "2023-09-07T05:16:53.308Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "7",
+        "object_repr": "Ammo object (7)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 33,
+    "fields": {
+        "action_time": "2023-09-07T05:17:24.842Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "8",
+        "object_repr": "Ammo object (8)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 34,
+    "fields": {
+        "action_time": "2023-09-07T05:17:59.987Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "9",
+        "object_repr": "Ammo object (9)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 35,
+    "fields": {
+        "action_time": "2023-09-07T05:18:02.715Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "9",
+        "object_repr": "Ammo object (9)",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 36,
+    "fields": {
+        "action_time": "2023-09-07T05:20:01.772Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "5",
+        "object_repr": "Damagerange object (5)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 37,
+    "fields": {
+        "action_time": "2023-09-07T05:49:18.987Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "7",
+        "object_repr": "Weapon object (7)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 38,
+    "fields": {
+        "action_time": "2023-09-07T05:49:42.188Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "10",
+        "object_repr": "Ammo object (10)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 39,
+    "fields": {
+        "action_time": "2023-09-07T05:50:19.911Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "6",
+        "object_repr": "Damagerange object (6)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 40,
+    "fields": {
+        "action_time": "2023-09-07T05:52:24.495Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "8",
+        "object_repr": "Weapon object (8)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 41,
+    "fields": {
+        "action_time": "2023-09-07T05:52:59.730Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "11",
+        "object_repr": "Ammo object (11)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 42,
+    "fields": {
+        "action_time": "2023-09-07T06:00:52.176Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "7",
+        "object_repr": "Damagerange object (7)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 1,
+    "fields": {
+        "name": "Can add log entry",
+        "content_type": 1,
+        "codename": "add_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 2,
+    "fields": {
+        "name": "Can change log entry",
+        "content_type": 1,
+        "codename": "change_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 3,
+    "fields": {
+        "name": "Can delete log entry",
+        "content_type": 1,
+        "codename": "delete_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 4,
+    "fields": {
+        "name": "Can view log entry",
+        "content_type": 1,
+        "codename": "view_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 5,
+    "fields": {
+        "name": "Can add permission",
+        "content_type": 2,
+        "codename": "add_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 6,
+    "fields": {
+        "name": "Can change permission",
+        "content_type": 2,
+        "codename": "change_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 7,
+    "fields": {
+        "name": "Can delete permission",
+        "content_type": 2,
+        "codename": "delete_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 8,
+    "fields": {
+        "name": "Can view permission",
+        "content_type": 2,
+        "codename": "view_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 9,
+    "fields": {
+        "name": "Can add group",
+        "content_type": 3,
+        "codename": "add_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 10,
+    "fields": {
+        "name": "Can change group",
+        "content_type": 3,
+        "codename": "change_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 11,
+    "fields": {
+        "name": "Can delete group",
+        "content_type": 3,
+        "codename": "delete_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 12,
+    "fields": {
+        "name": "Can view group",
+        "content_type": 3,
+        "codename": "view_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 13,
+    "fields": {
+        "name": "Can add user",
+        "content_type": 4,
+        "codename": "add_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 14,
+    "fields": {
+        "name": "Can change user",
+        "content_type": 4,
+        "codename": "change_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 15,
+    "fields": {
+        "name": "Can delete user",
+        "content_type": 4,
+        "codename": "delete_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 16,
+    "fields": {
+        "name": "Can view user",
+        "content_type": 4,
+        "codename": "view_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 17,
+    "fields": {
+        "name": "Can add content type",
+        "content_type": 5,
+        "codename": "add_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 18,
+    "fields": {
+        "name": "Can change content type",
+        "content_type": 5,
+        "codename": "change_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 19,
+    "fields": {
+        "name": "Can delete content type",
+        "content_type": 5,
+        "codename": "delete_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 20,
+    "fields": {
+        "name": "Can view content type",
+        "content_type": 5,
+        "codename": "view_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 21,
+    "fields": {
+        "name": "Can add session",
+        "content_type": 6,
+        "codename": "add_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 22,
+    "fields": {
+        "name": "Can change session",
+        "content_type": 6,
+        "codename": "change_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 23,
+    "fields": {
+        "name": "Can delete session",
+        "content_type": 6,
+        "codename": "delete_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 24,
+    "fields": {
+        "name": "Can view session",
+        "content_type": 6,
+        "codename": "view_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 25,
+    "fields": {
+        "name": "Can add ammo",
+        "content_type": 7,
+        "codename": "add_ammo"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 26,
+    "fields": {
+        "name": "Can change ammo",
+        "content_type": 7,
+        "codename": "change_ammo"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 27,
+    "fields": {
+        "name": "Can delete ammo",
+        "content_type": 7,
+        "codename": "delete_ammo"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 28,
+    "fields": {
+        "name": "Can view ammo",
+        "content_type": 7,
+        "codename": "view_ammo"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 29,
+    "fields": {
+        "name": "Can add weapon",
+        "content_type": 8,
+        "codename": "add_weapon"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 30,
+    "fields": {
+        "name": "Can change weapon",
+        "content_type": 8,
+        "codename": "change_weapon"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 31,
+    "fields": {
+        "name": "Can delete weapon",
+        "content_type": 8,
+        "codename": "delete_weapon"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 32,
+    "fields": {
+        "name": "Can view weapon",
+        "content_type": 8,
+        "codename": "view_weapon"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 33,
+    "fields": {
+        "name": "Can add damagerange",
+        "content_type": 9,
+        "codename": "add_damagerange"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 34,
+    "fields": {
+        "name": "Can change damagerange",
+        "content_type": 9,
+        "codename": "change_damagerange"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 35,
+    "fields": {
+        "name": "Can delete damagerange",
+        "content_type": 9,
+        "codename": "delete_damagerange"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 36,
+    "fields": {
+        "name": "Can view damagerange",
+        "content_type": 9,
+        "codename": "view_damagerange"
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+        "password": "pbkdf2_sha256$260000$JKD9sioSOYQkK9eV0NxAD2$MUFoIhc50JrU5bNELoZiQCmCGZ9babxoG4znxeath20=",
+        "last_login": "2023-09-06T08:20:33.465Z",
+        "is_superuser": true,
+        "username": "admin",
+        "first_name": "",
+        "last_name": "",
+        "email": "",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2023-09-06T08:20:11.972Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 2,
+    "fields": {
+        "password": "pbkdf2_sha256$260000$tIUHWLBKjt1xm6WwK5oA7S$G0KjEPl9ji+t1qtabKcVIanNNTccJEUKGqGWsIqHNLM=",
+        "last_login": "2023-09-19T01:30:03.854Z",
+        "is_superuser": true,
+        "username": "admin1",
+        "first_name": "",
+        "last_name": "",
+        "email": "",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2023-09-19T01:29:43.329Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 1,
+    "fields": {
+        "app_label": "admin",
+        "model": "logentry"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 2,
+    "fields": {
+        "app_label": "auth",
+        "model": "permission"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 3,
+    "fields": {
+        "app_label": "auth",
+        "model": "group"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 4,
+    "fields": {
+        "app_label": "auth",
+        "model": "user"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 5,
+    "fields": {
+        "app_label": "contenttypes",
+        "model": "contenttype"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 6,
+    "fields": {
+        "app_label": "sessions",
+        "model": "session"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 7,
+    "fields": {
+        "app_label": "api",
+        "model": "ammo"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 8,
+    "fields": {
+        "app_label": "api",
+        "model": "weapon"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 9,
+    "fields": {
+        "app_label": "api",
+        "model": "damagerange"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "bsb1fyoafgt9wkdlr5ksyzj5n33oratk",
+    "fields": {
+        "session_data": ".eJxVjMsOwiAQRf-FtSHDQ6Z16b7fQGAGpGogKe3K-O_apAvd3nPOfQkftrX4rafFzywuQonT7xYDPVLdAd9DvTVJra7LHOWuyIN2OTVOz-vh_h2U0Mu3dhnPPKA2gAAjazNStqQsAUF0aFXKgKS01hzJKGcCY8DkBhuTsUDi_QHD-Ddc:1qdnm5:pfLD5AmiZ9e3ncBmCncqXUP5nR4a5jekNh8pQLPC7iM",
+        "expire_date": "2023-09-20T08:20:33.469Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "u80cw913vqlejib7m8rjn44e5wtif2qa",
+    "fields": {
+        "session_data": ".eJxVjEEOgjAQRe_StWksheng0j1nIDPTqaCmTSisjHdXEha6_e-9_zIjbes0blWXcY7mYhpz-t2Y5KF5B_FO-VaslLwuM9tdsQetdihRn9fD_TuYqE7fGpMARgAgRXZOE3cqSRAJvQcHfTpD3zqKvSA3LXNoA0vngk-h0c6Z9wf78zgd:1qiPYx:e6zPKZIE5Hq43yWi7cUbAbXyjyn-_A0P4A_7muPFNMQ",
+        "expire_date": "2023-10-03T01:30:03.871Z"
+    }
+},
+{
+    "model": "api.weapon",
+    "pk": 1,
+    "fields": {
+        "name": "Bertheier Mle 1892",
+        "cost": 3,
+        "weapon_image": "Berthier_Mle_1892.png",
+        "category": "long",
+        "description": "The lighter alternative to the Lebel 1886, the Berthier Mle 1892 is a bolt-action mousqueton that doesn't lose power for the sake of its convenience.",
+        "rateoffire": 27.0,
+        "cycletime": 1.7,
+        "spread": 47.5,
+        "sway": 77.0,
+        "reloadspeed": 2.7,
+        "meleedamage": 27,
+        "heavymeleedamage": 54,
+        "staminaconsumption": 25,
+        "price": 356
+    }
+},
+{
+    "model": "api.weapon",
+    "pk": 2,
+    "fields": {
+        "name": "Bertheier Mle 1892 Deadeye",
+        "cost": 3,
+        "weapon_image": "",
+        "category": "long",
+        "description": "The light Berthier Mle 1892 is a bolt-aciton mousqueton that doesn't lose power for the sake of its convenience. A Deadeye scope complements its performace at midrange.",
+        "rateoffire": 27.0,
+        "cycletime": 1.7,
+        "spread": 57.5,
+        "sway": 77.0,
+        "reloadspeed": 2.7,
+        "meleedamage": 27,
+        "heavymeleedamage": 54,
+        "staminaconsumption": 25,
+        "price": 388
+    }
+},
+{
+    "model": "api.weapon",
+    "pk": 3,
+    "fields": {
+        "name": "Bertheier Mle 1892 Riposte",
+        "cost": 3,
+        "weapon_image": "Nagant_M1895_Officer_Carbine.png",
+        "category": "long",
+        "description": "The light Berthier Mle 1892 is a bolt-aciton mousqueton that doesn't lose power for the sake of its convenience. An affixed bayonet makes this deadly in close combat.",
+        "rateoffire": 27.0,
+        "cycletime": 1.7,
+        "spread": 47.5,
+        "sway": 84.0,
+        "reloadspeed": 2.7,
+        "meleedamage": 82,
+        "heavymeleedamage": 168,
+        "staminaconsumption": 25,
+        "price": 388
+    }
+},
+{
+    "model": "api.weapon",
+    "pk": 4,
+    "fields": {
+        "name": "Caldwell Conversion Uppercut",
+        "cost": 1,
+        "weapon_image": "Caldwell_Conversion_Uppercut.png",
+        "category": "long",
+        "description": "Modified single-action revolver that fires more powerful rifle cartridges, but kicks like a mule. Can be used for dual wielding.",
+        "rateoffire": 18.0,
+        "cycletime": 1.6,
+        "spread": 40.0,
+        "sway": 128.0,
+        "reloadspeed": 16.0,
+        "meleedamage": 13,
+        "heavymeleedamage": 31,
+        "staminaconsumption": 20,
+        "price": 414
+    }
+},
+{
+    "model": "api.weapon",
+    "pk": 5,
+    "fields": {
+        "name": "Caldwell Pax",
+        "cost": 1,
+        "weapon_image": "Caldwell_Pax.png",
+        "category": "medium",
+        "description": "This iconic signle-action six round revolver needs no further introduction. Robust, powerful, and accurate, it brought peace to the once lawless West. Can be used for dual wielding",
+        "rateoffire": 22.0,
+        "cycletime": 1.4,
+        "spread": 32.5,
+        "sway": 128.0,
+        "reloadspeed": 10.0,
+        "meleedamage": 13,
+        "heavymeleedamage": 31,
+        "staminaconsumption": 20,
+        "price": 80
+    }
+},
+{
+    "model": "api.weapon",
+    "pk": 6,
+    "fields": {
+        "name": "Caldwell Pax Claw",
+        "cost": 1,
+        "weapon_image": "Scottfield_Model3.png",
+        "category": "medium",
+        "description": "This iconic signle-action six round revolver needs no further introduction. Robust, powerful, and accurate, a blade affixed to the grip gives this an edge up close. Can be used for dual wieding.",
+        "rateoffire": 22.0,
+        "cycletime": 1.4,
+        "spread": 32.5,
+        "sway": 128.0,
+        "reloadspeed": 10.0,
+        "meleedamage": 13,
+        "heavymeleedamage": 31,
+        "staminaconsumption": 20,
+        "price": 80
+    }
+},
+{
+    "model": "api.weapon",
+    "pk": 7,
+    "fields": {
+        "name": "Bornheim No. 3",
+        "cost": 1,
+        "weapon_image": "Bornheim_No3.png",
+        "category": "compact",
+        "description": "This early German semi-automatic pistol can release a hail of accurate fire by virtue of its low recoil. Reloads via a five-round magazine, or by topping up rounds individually. Can be used for dual wielding.",
+        "rateoffire": 65.0,
+        "cycletime": 0.2,
+        "spread": 25.0,
+        "sway": 128.0,
+        "reloadspeed": 7.4,
+        "meleedamage": 13,
+        "heavymeleedamage": 31,
+        "staminaconsumption": 20,
+        "price": 146
+    }
+},
+{
+    "model": "api.weapon",
+    "pk": 8,
+    "fields": {
+        "name": "Nitro Express Rifle",
+        "cost": 3,
+        "weapon_image": "Nitro_Express_Rifle.png",
+        "category": "special",
+        "description": "Powerful, side-by-side, big game hunting rifle that can bring down the largest targets at mid-range. Carries limited ammunition.",
+        "rateoffire": 21.0,
+        "cycletime": 0.7,
+        "spread": 62.5,
+        "sway": 77.0,
+        "reloadspeed": 4.8,
+        "meleedamage": 27,
+        "heavymeleedamage": 54,
+        "staminaconsumption": 26,
+        "price": 1015
+    }
+},
+{
+    "model": "api.ammo",
+    "pk": 1,
+    "fields": {
+        "type": "long",
+        "price_ammo": 0,
+        "damage": 130,
+        "effectiverange": 305,
+        "muzzle_velocity": 305,
+        "verticalrecoil": 14.0,
+        "capacity_magazine": 3,
+        "capacity_spare": 12,
+        "weapon": [
+            1,
+            2,
+            3
+        ]
+    }
+},
+{
+    "model": "api.ammo",
+    "pk": 2,
+    "fields": {
+        "type": "incendiary",
+        "price_ammo": 35,
+        "damage": 130,
+        "effectiverange": 305,
+        "muzzle_velocity": 590,
+        "verticalrecoil": 14.0,
+        "capacity_magazine": 3,
+        "capacity_spare": 6,
+        "weapon": [
+            1,
+            2,
+            3
+        ]
+    }
+},
+{
+    "model": "api.ammo",
+    "pk": 3,
+    "fields": {
+        "type": "dumdum",
+        "price_ammo": 75,
+        "damage": 110,
+        "effectiverange": 317,
+        "muzzle_velocity": 780,
+        "verticalrecoil": 18.0,
+        "capacity_magazine": 3,
+        "capacity_spare": 6,
+        "weapon": [
+            1,
+            2,
+            3
+        ]
+    }
+},
+{
+    "model": "api.ammo",
+    "pk": 4,
+    "fields": {
+        "type": "long",
+        "price_ammo": 0,
+        "damage": 126,
+        "effectiverange": 115,
+        "muzzle_velocity": 410,
+        "verticalrecoil": 23.0,
+        "capacity_magazine": 6,
+        "capacity_spare": 9,
+        "weapon": [
+            4
+        ]
+    }
+},
+{
+    "model": "api.ammo",
+    "pk": 5,
+    "fields": {
+        "type": "medium",
+        "price_ammo": 0,
+        "damage": 110,
+        "effectiverange": 87,
+        "muzzle_velocity": 330,
+        "verticalrecoil": 10.0,
+        "capacity_magazine": 6,
+        "capacity_spare": 12,
+        "weapon": [
+            5,
+            6
+        ]
+    }
+},
+{
+    "model": "api.ammo",
+    "pk": 6,
+    "fields": {
+        "type": "dumdum",
+        "price_ammo": 50,
+        "damage": 110,
+        "effectiverange": 87,
+        "muzzle_velocity": 330,
+        "verticalrecoil": 10.0,
+        "capacity_magazine": 6,
+        "capacity_spare": 12,
+        "weapon": [
+            5,
+            6
+        ]
+    }
+},
+{
+    "model": "api.ammo",
+    "pk": 7,
+    "fields": {
+        "type": "incendiary",
+        "price_ammo": 40,
+        "damage": 110,
+        "effectiverange": 87,
+        "muzzle_velocity": 330,
+        "verticalrecoil": 10.0,
+        "capacity_magazine": 6,
+        "capacity_spare": 12,
+        "weapon": [
+            5,
+            6
+        ]
+    }
+},
+{
+    "model": "api.ammo",
+    "pk": 8,
+    "fields": {
+        "type": "poison",
+        "price_ammo": 50,
+        "damage": 110,
+        "effectiverange": 87,
+        "muzzle_velocity": 330,
+        "verticalrecoil": 10.0,
+        "capacity_magazine": 6,
+        "capacity_spare": 12,
+        "weapon": [
+            5,
+            6
+        ]
+    }
+},
+{
+    "model": "api.ammo",
+    "pk": 9,
+    "fields": {
+        "type": "FMJ",
+        "price_ammo": 50,
+        "damage": 110,
+        "effectiverange": 97,
+        "muzzle_velocity": 300,
+        "verticalrecoil": 10.0,
+        "capacity_magazine": 6,
+        "capacity_spare": 12,
+        "weapon": [
+            5,
+            6
+        ]
+    }
+},
+{
+    "model": "api.ammo",
+    "pk": 10,
+    "fields": {
+        "type": "compact",
+        "price_ammo": 0,
+        "damage": 74,
+        "effectiverange": 62,
+        "muzzle_velocity": 380,
+        "verticalrecoil": 6.0,
+        "capacity_magazine": 6,
+        "capacity_spare": 10,
+        "weapon": [
+            7
+        ]
+    }
+},
+{
+    "model": "api.ammo",
+    "pk": 11,
+    "fields": {
+        "type": "special",
+        "price_ammo": 0,
+        "damage": 364,
+        "effectiverange": 252,
+        "muzzle_velocity": 550,
+        "verticalrecoil": 40.0,
+        "capacity_magazine": 2,
+        "capacity_spare": 4,
+        "weapon": [
+            8
+        ]
+    }
+},
+{
+    "model": "api.damagerange",
+    "pk": 1,
+    "fields": {
+        "dist_5": 130,
+        "dist_10": 130,
+        "dist_15": 130,
+        "dist_20": 130,
+        "dist_25": 130,
+        "dist_30": 130,
+        "dist_35": 130,
+        "dist_40": 130,
+        "dist_45": 127,
+        "dist_50": 124,
+        "dist_60": 117,
+        "dist_70": 108,
+        "dist_80": 98,
+        "dist_90": 90,
+        "dist_100": 81,
+        "dist_150": 74,
+        "dist_200": 68,
+        "dist_250": 61,
+        "ammo": [
+            1,
+            2
+        ]
+    }
+},
+{
+    "model": "api.damagerange",
+    "pk": 3,
+    "fields": {
+        "dist_5": 110,
+        "dist_10": 110,
+        "dist_15": 110,
+        "dist_20": 110,
+        "dist_25": 110,
+        "dist_30": 110,
+        "dist_35": 110,
+        "dist_40": 110,
+        "dist_45": 110,
+        "dist_50": 110,
+        "dist_60": 110,
+        "dist_70": 103,
+        "dist_80": 97,
+        "dist_90": 90,
+        "dist_100": 83,
+        "dist_150": 64,
+        "dist_200": 56,
+        "dist_250": 48,
+        "ammo": [
+            3
+        ]
+    }
+},
+{
+    "model": "api.damagerange",
+    "pk": 4,
+    "fields": {
+        "dist_5": 126,
+        "dist_10": 126,
+        "dist_15": 126,
+        "dist_20": 126,
+        "dist_25": 121,
+        "dist_30": 117,
+        "dist_35": 114,
+        "dist_40": 107,
+        "dist_45": 98,
+        "dist_50": 91,
+        "dist_60": 84,
+        "dist_70": 77,
+        "dist_80": 69,
+        "dist_90": 65,
+        "dist_100": 61,
+        "dist_150": 42,
+        "dist_200": 37,
+        "dist_250": 33,
+        "ammo": [
+            4
+        ]
+    }
+},
+{
+    "model": "api.damagerange",
+    "pk": 5,
+    "fields": {
+        "dist_5": 110,
+        "dist_10": 110,
+        "dist_15": 110,
+        "dist_20": 110,
+        "dist_25": 103,
+        "dist_30": 98,
+        "dist_35": 90,
+        "dist_40": 84,
+        "dist_45": 75,
+        "dist_50": 66,
+        "dist_60": 57,
+        "dist_70": 48,
+        "dist_80": 42,
+        "dist_90": 36,
+        "dist_100": 31,
+        "dist_150": 28,
+        "dist_200": 25,
+        "dist_250": 23,
+        "ammo": [
+            5,
+            6,
+            7,
+            8
+        ]
+    }
+},
+{
+    "model": "api.damagerange",
+    "pk": 6,
+    "fields": {
+        "dist_5": 74,
+        "dist_10": 74,
+        "dist_15": 74,
+        "dist_20": 74,
+        "dist_25": 68,
+        "dist_30": 63,
+        "dist_35": 55,
+        "dist_40": 47,
+        "dist_45": 43,
+        "dist_50": 39,
+        "dist_60": 33,
+        "dist_70": 27,
+        "dist_80": 23,
+        "dist_90": 20,
+        "dist_100": 18,
+        "dist_150": 15,
+        "dist_200": 11,
+        "dist_250": 7,
+        "ammo": [
+            10
+        ]
+    }
+},
+{
+    "model": "api.damagerange",
+    "pk": 7,
+    "fields": {
+        "dist_5": 364,
+        "dist_10": 364,
+        "dist_15": 364,
+        "dist_20": 291,
+        "dist_25": 237,
+        "dist_30": 210,
+        "dist_35": 186,
+        "dist_40": 157,
+        "dist_45": 149,
+        "dist_50": 146,
+        "dist_60": 135,
+        "dist_70": 127,
+        "dist_80": 120,
+        "dist_90": 113,
+        "dist_100": 106,
+        "dist_150": 84,
+        "dist_200": 62,
+        "dist_250": 40,
+        "ammo": [
+            11
+        ]
+    }
+}
+]
