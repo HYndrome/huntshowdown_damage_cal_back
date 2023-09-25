@@ -30,7 +30,7 @@ SECRET_KEY = os.getenv("SECRET_KEY")
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    "localhost", "port-0-huntshowdown-damage-cal-back-2rrqq2blmygo1x3.sel5.cloudtype.app"]
+    '127.0.0.1', "port-0-huntshowdown-damage-cal-back-2rrqq2blmygo1x3.sel5.cloudtype.app"]
 
 
 # Application definition
@@ -140,4 +140,5 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 # CORS settings
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
+    "https://hsdmgcal.web.app/",
 ]
