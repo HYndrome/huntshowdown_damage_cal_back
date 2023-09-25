@@ -140,5 +140,5 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 # CORS settings
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
-    "https://hsdmgcal.web.app/",
+    "https://hsdmgcal.web.app/"
 ]
